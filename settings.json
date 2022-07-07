@@ -1,0 +1,33 @@
+{
+    "server":{
+        "ipNumerica": "185.116.157.81",
+	"ip": "lafotodeunshowmas.aternos.me",
+        "port": "32253",
+        "version": "1.17.1"
+    },
+    "utils":{
+        "auto-auth":{
+            "enabled": false,
+            "password": ""
+        },
+
+        "anti-afk":{
+            "enabled": false,
+            "sneak": false,
+            "jump" : false
+        },
+
+        "chat-messages":{
+            "enabled": false,
+            "repeat": false,
+            "repeat-delay": 60,
+
+            "messages": [
+                ""
+            ]
+        },
+
+        "chat-log": true,
+        "auto-reconnect": true
+    }
+}
